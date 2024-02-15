@@ -4,11 +4,6 @@ const HtmlPlugin = require('html-webpack-plugin'); // 설치한 패키지를 Htm
 const CopyPlugin = require('copy-webpack-plugin');
 
 
-
-
-
-
-
 //export
 module.exports = {
   // 파일을 읽어들이기 시작하는 진입점
